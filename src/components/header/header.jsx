@@ -4,7 +4,7 @@ import ResumeButton from '../../utilities/resumeButton'
 const Header = () => {
     return (
         // <nav className="flex justify-end items-center w-[60%] h-screen bg-primary">
-        <nav className="flex justify-center items-center w-[60%] h-screen bg-bgMenu">
+        <nav className="flex justify-center items-center w-[100%] max-w-md h-screen bg-bgMenu">
             {/* <span className="textPrimary text-3xl absolute top-8 m-10">X</span> */}
             {/* <ul className="relative top-0 right-0 left-0 bottom-0 m-auto"> */}
             <ul className="flex flex-col items-center">
