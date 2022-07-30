@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './utilities/resumeButton'
+import App from './components/header/header'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
