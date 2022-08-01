@@ -3,7 +3,7 @@ import Button from '../../utilities/resumeButton';
 
 const Presentation = () => {
     return (
-        <div className="m-6 sm:mx-36 md:mx-48 flex flex-col my-48 text-primary">
+        <div className="m-6 sm:mx-36 md:mx-48 flex flex-col text-left my-48 text-primary">
             <span className="text-2xl">Hi, my name is</span>
             <h1 className="mt-5 mb-4 font-bold text-textPrimary title">Julio Fuentes</h1>
             <span className="mb-5 font-bold text-textSecondary title">Backend developer</span>
